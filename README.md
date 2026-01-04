@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: **Building end-to-end data analysis projects and refining my EDA techniques.** <br>
 🤝 I’m looking to collaborate on: **Entry-level data science challenges and collaborative data visualization projects.** <br>
-🌱 I’m currently learning: **Advanced Excel functions, statistical modeling, and Cloud Data Engineering.** <br>
+🌱 I’m currently learning: **Advanced Excel functions, statistical modeling, and Data Pipelines.** <br>
 💬 Ask me about: **SQL joins, Python libraries (Pandas/NumPy), and creating insights from raw data.** <br>
 ⚡ Fun Fact: **I actually enjoy cleaning "messy" datasets—it's like a puzzle where the prize is a clean chart!**
 
