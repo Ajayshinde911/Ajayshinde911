@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: **Developing automated data pipelines and interactive dashboards for business intelligence.** <br>
-🤝 I’m looking to collaborate on: **Open-source Data Science projects and Machine Learning predictive models.** <br>
-🌱 I’m currently learning: **Advanced Deep Learning techniques and cloud-based data warehousing (AWS/Azure).** <br>
-💬 Ask me about: **Data cleaning strategies, SQL optimization, and storytelling with Power BI/Tableau.** <br>
-⚡ Fun Fact: **I can spot a missing comma in a 500-line SQL script faster than I can find my house keys!**
+🔭 I’m currently working on: **Building end-to-end data analysis projects and refining my EDA techniques.** <br>
+🤝 I’m looking to collaborate on: **Entry-level data science challenges and collaborative data visualization projects.** <br>
+🌱 I’m currently learning: **Advanced Excel functions, statistical modeling, and Cloud Data Engineering.** <br>
+💬 Ask me about: **SQL joins, Python libraries (Pandas/NumPy), and creating insights from raw data.** <br>
+⚡ Fun Fact: **I actually enjoy cleaning "messy" datasets—it's like a puzzle where the prize is a clean chart!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuresh-lokamanwar-668b56297/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com) 
